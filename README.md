@@ -1,5 +1,4 @@
-Basic Vagrant VM Apache2 webserver project with pupper config
-=======================
+#Basic Vagrant VM Apache2 webserver project with pupper config
 
 ##Introduction
 This is a very basic Vagrant Box set-up that will enable you host your very own
@@ -25,7 +24,7 @@ Download and install the software listed below:
 2. VirtualBox 4.3.x - https://www.virtualbox.org/wiki/Downloads
 3. Git 1.9.x - http://git-scm.com/downloads
 
-##Installing software:
+###Deploying the Server:
 1. $ git clone https://github.com/jdwaring/vagrant-vm-puppet.git
 2. $ cd vagrant-vm-puppet
 3. $ vagrant up
