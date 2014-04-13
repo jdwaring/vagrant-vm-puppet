@@ -1,4 +1,4 @@
-#Basic Vagrant VM Apache2 webserver project with pupper config
+#Basic Vagrant webserver project with puppet
 
 ##Introduction
 This is a very basic Vagrant Box set-up that will enable you host your very own
